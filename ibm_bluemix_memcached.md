@@ -136,7 +136,7 @@ Configure the connection to your Memcached Cloud service using the `VCAP_SERVICE
 ## Dashboard
 Our dashboard presents all performance and usage metrics of your Memcached Cloud service on a single screen, as shown below:
 
-![Dashboard](https://s3.amazonaws.com/paas-docs/memcached-cloud/)
+![Dashboard](https://s3.amazonaws.com/paas-docs/memcached-cloud/ibm_bluemix_memcached_cloud_dashboard.png)
 
 To access your Memcached Cloud dashboard, click the service instance in your Code Name: BlueMix console and then the **LAUNCH MEMCACHEDCLOUD DASHBOARD** button.
 
