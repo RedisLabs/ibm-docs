@@ -8,7 +8,7 @@ Use the [IBM Marketplace](https://marketplace.ibmcloud.com/apps/87) to create yo
 ## Dashboard
 Our dashboard presents all performance and usage metrics of your Redis Cloud service on a single screen, as shown below:
 
-![Dashboard](https://s3.amazonaws.com/paas-docs/redis-cloud/)
+![Dashboard](https://s3.amazonaws.com/paas-docs/redis-cloud/ibm_marketplace_redis_cloud_dashboard.png)
 
 To access your Redis Cloud dashboard, click the service's icon in your IBM Marketplace's **My Services** section.
 
