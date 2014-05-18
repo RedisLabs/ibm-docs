@@ -150,7 +150,7 @@ Configure the connection to your Redis Cloud service using `VCAP_SERVICES` envir
 ## Dashboard
 Our dashboard presents all performance and usage metrics of your Redis Cloud service on a single screen, as shown below:
 
-![Dashboard](https://s3.amazonaws.com/paas-docs/redis-cloud/)
+![Dashboard](https://s3.amazonaws.com/paas-docs/redis-cloud/ibm_bluemix_redis_cloud_dashboard.png)
 
 To access your Redis Cloud dashboard, click the service instance in your Code Name: BlueMix console and then the **LAUNCH REDISCLOUD DASHBOARD** button.
 
