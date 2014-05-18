@@ -8,7 +8,7 @@ Use the [IBM Marketplace](https://marketplace.ibmcloud.com/apps/676) to create y
 ## Dashboard
 Our dashboard presents all performance and usage metrics of your Memcached Cloud service on a single screen, as shown below:
 
-![Dashboard](https://s3.amazonaws.com/paas-docs/memcached-cloud/)
+![Dashboard](https://s3.amazonaws.com/paas-docs/memcached-cloud/ibm_marketplace_memcached_cloud_dashboard.png)
 
 To access your Redis Cloud dashboard, click the service's icon in your IBM Marketplace's **My Services** section.
 
